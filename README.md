@@ -1,4 +1,4 @@
-# Dominique's Hyprland Starting Guide
+# Hyprland Starting Guide
 
 ## Index
 
@@ -133,5 +133,5 @@ to open up a Pull Request or Issue. I'll happily mention your contributions here
 as well.
 
 
-Made with love <3 - Dear Dominique
-
+Made with love <3
+Trans rights are human rights! 🏳️‍⚧️
